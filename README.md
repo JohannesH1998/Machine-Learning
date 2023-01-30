@@ -5,7 +5,6 @@ Machine Learning Studienarbeit
 
 ### 1. Aufgabe
 - [ ] (eventuell weitere Evaulierung mit loss funktionen und so)
-- [ ] 
 
 ### 2. Aufgabe
 - [ ] Da müssen noch andere Modelle ausprobiert werden (ink eval)
@@ -25,3 +24,7 @@ Machine Learning Studienarbeit
 
 ### Präsentation
 - [ ] machen
+
+### Sonstiges
+- [ ] Aufräumen
+- [ ] Kommentare schreiben
